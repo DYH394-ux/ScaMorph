@@ -1,0 +1,3 @@
+Write logs into logs/ScaMorph_ncc1_reg1/
+Training Starts
+Epoch 0/300 idx 1: Total_loss: -0.0608 Sim: -0.060762 Reg: 0.000000 99.7861 sec/step Epoch 0/300 idx 2: Total_loss: -0.0604 Sim: -0.060358 Reg: 0.000000 93.9701 sec/step Epoch 0/300 idx 3: Total_loss: -0.0607 Sim: -0.060725 Reg: 0.000000 94.0290 sec/step 
